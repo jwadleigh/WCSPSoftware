@@ -13,10 +13,11 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-    homescreen.cpp
+    screensdriver.cpp
 
 HEADERS  += \
-    homescreen.h
+    screensdriver.h
 
 FORMS    += \
-    homescreen.ui
+    homescreen.ui \
+    screensdriver.ui
