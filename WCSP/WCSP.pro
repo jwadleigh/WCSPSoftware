@@ -20,4 +20,5 @@ HEADERS  += \
 
 FORMS    += \
     homescreen.ui \
-    screensdriver.ui
+    screensdriver.ui \
+    SelectNumberToTest.ui
