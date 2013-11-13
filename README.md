@@ -8,9 +8,9 @@ This is more important if you plan on editing the UI.
 
 Otherwise if you just want to compile and run...
 Compile first by running qmake on the .pro (project) file to generate the make file:
-  qmake WCSP.pro<br >
-  make
+>qmake WCSP.pro<br >
+>make
 
 
-Then run it with:
-  ./WCSP
+Then run it with:<br >
+>./WCSP
