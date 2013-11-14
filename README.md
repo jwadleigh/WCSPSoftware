@@ -6,14 +6,13 @@ Software for driving the mechanical aspects of WCSP testing.
 Download repo:
 >git clone https://github.com/jwadleigh/WCSPSoftware.git
 
-Ideally, open WCSP/WCSP.pro in QtCreator (http://qt-project.org/downloads#qt-creator).
-This is more important if you plan on editing the UI.
+If you need to edit the UI, open WCSP.pro in QtCreator (which comes with Qt 5.1, http://qt-project.org/downloads).
 
 Otherwise if you just want to compile and run:<br >
-Compile first by running qmake on the .pro (project) file to generate the make file.
+First qmake on the .pro (project) file to generate the make file, then use make.
 >qmake WCSP.pro<br >
 >make
 
 
-Then run it with:<br >
+Run it with:<br >
 >./WCSP
